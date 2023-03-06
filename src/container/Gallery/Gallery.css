@@ -46,6 +46,7 @@
   min-width: 301px;
   height: 447px;
   margin-right: 2rem;
+  cursor: pointer;
 }
 
 .gallery__image-icon {
